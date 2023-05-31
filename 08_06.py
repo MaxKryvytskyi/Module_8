@@ -9,8 +9,5 @@ def decimal_average(number_list, signs_count):
         sums += Decimal(i)
     return sums/len(number_list)
 print(decimal_average(number_list, signs_count))
-    
-    
-    
-        
-    
+
+
